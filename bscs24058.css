@@ -2,9 +2,26 @@
     width: 500px;
     height: 500px;
     background-color: blue;
-    border-width: 10px;
-    border-color: red;
+    border-style: solid;
+    border-color: rgb(209, 9, 9);
+    border-width: 20px;
     border-radius: 20%;
     margin: 10px;
     padding: 5px;
+    font-size: 35px;
+}
+
+.normal-para {
+    font-size: 35px;
+    color: green;
+}
+
+#fav-para {
+    color: purple;
+}
+.ol{
+    font-size: 50px;
+}
+.ul{
+    font-size: 50px;
 }
